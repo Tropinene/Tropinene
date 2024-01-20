@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tropinene" /> </div>
+<div>&nbsp;</div>
+
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
