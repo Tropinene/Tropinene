@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tropinene" /> </div>
+<!--<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tropinene" /> </div>
 <div>&nbsp;</div>
-
+-->
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 </table>
 
 <!-- Wakatime Graph-->
+<!--
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@018c90b5-e98b-4ba1-ba70-a834e8e8af46/b5f264fa-f503-4f84-b154-ea19ce5f2bac.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@018c90b5-e98b-4ba1-ba70-a834e8e8af46/cf2bc024-9c20-4325-adab-c2ef5924e620.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
+-->
